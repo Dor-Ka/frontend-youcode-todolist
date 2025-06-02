@@ -1,19 +1,42 @@
-# To do list
-## About:
-Link to the page => [to do list](https://dor-ka.github.io/frontend-youcode-todolist/)
+# To Do List
+
+## About
+
+[🔗 Live Demo](https://dor-ka.github.io/frontend-youcode-todolist/)
+
+This project is a simple To Do List web application created for practicing basic **HTML**, **CSS**, and **JavaScript** skills.
+
+---
+
+## 📸 Demo
+
+![Desktop view](https://github.com/dor-ka/frontend-youcode-todolist/raw/main/images/img-readme-2.png)
+
+![Mobile view](https://github.com/dor-ka/frontend-youcode-todolist/raw/main/images/img-readme-mobile-2.png)
+
+![Demo gif](https://github.com/dor-ka/frontend-youcode-todolist/raw/main/images/readme.gif)
 
 
-This project is a simple website created for practicing basic **HTML**, **CSS** and **JavaScript** skills.
-## Technologies used:
-- BEM
-- ES6+ features
-- grid
-- media queries
-- immutability array in JavaScript
+---
 
-## demo:
-![demo.img](https://github.com/DorotaKar/todo-list/blob/main/images/img-readme-2.png)
+## 🛠️ Technologies Used
 
-![demo.img-mobile](https://github.com/DorotaKar/todo-list/blob/main/images/img-readme-mobile-2.png)
+- HTML
+- CSS (Grid, Media Queries)
+- JavaScript (ES6+)
+- BEM methodology
+- Array immutability
 
-![demo.giv](https://github.com/DorotaKar/todo-list/blob/main/images/readme.gif)
+---
+
+## 🚀 Features
+
+- Add and remove tasks
+- Responsive layout for desktop and mobile
+- Clean and semantic markup
+
+---
+
+## 📦 Status
+
+Project finished and available online.
